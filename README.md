@@ -7,7 +7,7 @@ Pense pare e veja, este algoritmo a ser criado com o nome WilsonIco com a finali
               +
        (Chaves privada)
               +
-          (Carteira)
+  (Carteira para recebimentos)
                           
                          
                           
